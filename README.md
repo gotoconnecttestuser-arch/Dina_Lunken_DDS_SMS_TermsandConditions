@@ -45,7 +45,11 @@ We may update these Terms at any time. Continued use of our SMS communication me
 15. Contact Us
     
 For more information or assistance, contact:
+
 Dina Lunken DDS
-[Practice Address]
+
+803 21st Street, Ste B
+Peru, IL 61354
+
 (815) 223-6622
 
