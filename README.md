@@ -1,37 +1,51 @@
 Dina Lunken DDS Terms and Conditions
 
-TERMS OF SERVICE
+Effective Date: 01/14/2026
 
-Effective Date: 1/14/2026
+These Terms and Conditions ("Terms") govern the use of SMS notifications and patient communication services provided by Dina Lunken DDS.
 
-By opting in to receive SMS messages from Dina Lunken DDS ("we," "us," "our"), you agree to these Terms and Conditions (Terms).
+1. Acceptance of Terms
+   
+By providing your contact information and choosing to receive SMS communications from Dina Lunken DDS, you agree to these Terms.
 
-SMS Messaging Service
+3. SMS Communication
+   
+Messages from Dina Lunken DDS are intended for informational purposes only and are sent to current patients who have provided consent. Messages may include:
 
-By providing your phone number, you consent to receive conversational messages from Dina Lunken DDS. Message frequency may vary. On average, you can expect to receive 1-2 messages per month. Message and data rates may apply. For more information on how your data is handled, please review our privacy policy at dinalunkendds.com.
-Message Frequency
+•	Appointment reminders, confirmations, and changes
 
-You will get more than one message from us unless you opt-out, and while messaging frequency varies, you will likely receive up to 4 messages per month. Dina Lunken DDS reserves the right to alter the frequency of messages at any time to increase or decrease the total number of messages. Dina Lunken DDS and carriers are not liable for delays or undelivered messages.
+•	Account balance notifications
 
-Message and Data Rates
+•	Links to required pre-appointment forms
 
-Message and data rates may apply based on your mobile carrier's terms.
+•	Notices regarding scheduling and rescheduling
 
-Privacy Policy
+No promotional or marketing messages will be sent without your explicit consent.
 
-Your information will be handled in accordance with our Privacy Policy 
-You can read about it here https://github.com/gotoconnecttestuser-arch/Dina_Lunken_DDS_SMS_PrivacyPolicy/blob/main/README.md
+5. Fees and Charges
+   
+Dina Lunken DDS does not charge for SMS notifications. However, standard message and data rates may apply according to your mobile carrier plan.
 
+7. Opt-In/Opt-Out
+   
+You may opt in to SMS communications during your appointment scheduling process. You may opt out at any time by replying STOP to any message. For help, reply HELP or contact (815) 223-6622.
 
+9. Privacy
+    
+Your information will be handled in accordance with our Privacy Policy .
 
-Cancellation/Opt-Out Instructions
+11. Limitation of Liability
+    
+Messages sent by Dina Lunken DDS are for communication purposes. We are not responsible for delayed or undelivered messages due to carrier limitations or technical issues.
 
-You can opt out of receiving SMS messages at any time by replying STOP to any message we send you. After you opt out of text messaging, you will receive one additional message confirming your request has been processed.
+13. Changes to Terms
+    
+We may update these Terms at any time. Continued use of our SMS communication means you accept the then-current Terms.
 
-Help/Customer Support
+15. Contact Us
+    
+For more information or assistance, contact:
+Dina Lunken DDS
+[Practice Address]
+(815) 223-6622
 
-Text the word HELP for support. You may also contact us directly at dinalunkendds@gmail.com or(815) 223-6622.
-
-Liability
-
-We are not responsible for any charges, errors, or delays in SMS delivery or undelivered messages caused by your carrier or third-party service providers.
