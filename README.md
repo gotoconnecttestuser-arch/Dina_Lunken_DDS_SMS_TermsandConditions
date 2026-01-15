@@ -6,8 +6,6 @@ These Terms and Conditions ("Terms") govern the use of SMS notifications and pat
 
 1. Acceptance of Terms
    
-By providing your contact information and choosing to receive SMS communications from Dina Lunken DDS, you agree to these Terms.
-
 By providing your phone number, you consent to receive customer care messages from Dina Lunken DDS PC. Message frequency may vary. On average, you may receive 1-2 messages per month.
 
 To opt out of receiving messages, reply STOP at any time.
