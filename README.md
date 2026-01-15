@@ -2,7 +2,7 @@ Dina Lunken DDS Terms and Conditions
 
 Effective Date: 01/14/2026
 
-These Terms and Conditions ("Terms") govern the use of SMS notifications and patient communication services provided by Dina Lunken DDS.
+These Terms and Conditions ("Terms") govern the use of SMS notifications and patient communication services provided by Dina Lunken DDS PC.
 
 1. Acceptance of Terms
    
@@ -18,7 +18,7 @@ For details on how your information is handled, please review our Privacy Policy
 
 3. SMS Communication
    
-Messages from Dina Lunken DDS are intended for informational purposes only and are sent to current patients who have provided consent. Messages may include:
+Messages from Dina Lunken DDS PC are intended for informational purposes only and are sent to current patients who have provided consent. Messages may include:
 
 •	Appointment reminders, confirmations, and changes
 
@@ -44,7 +44,7 @@ Your information will be handled in accordance with our Privacy Policy https://g
 
 11. Limitation of Liability
     
-Messages sent by Dina Lunken DDS are for communication purposes. We are not responsible for delayed or undelivered messages due to carrier limitations or technical issues.
+Messages sent by Dina Lunken DDS PC are for communication purposes. We are not responsible for delayed or undelivered messages due to carrier limitations or technical issues.
 
 13. Changes to Terms
     
@@ -54,7 +54,7 @@ We may update these Terms at any time. Continued use of our SMS communication me
     
 For more information or assistance, contact:
 
-Dina Lunken DDS
+Dina Lunken DDS PC
 
 803 21st Street, Ste B
 Peru, IL 61354
