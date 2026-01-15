@@ -20,6 +20,8 @@ For details on how your information is handled, please review our Privacy Policy
    
 Messages from Dina Lunken DDS PC are intended for informational purposes only and are sent to current patients who have provided consent. Messages may include:
 
+•  customer care messages
+
 •	Appointment reminders, confirmations, and changes
 
 •	Account balance notifications
