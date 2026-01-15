@@ -32,7 +32,7 @@ You may opt in to SMS communications during your appointment scheduling process.
 
 9. Privacy
     
-Your information will be handled in accordance with our Privacy Policy .
+Your information will be handled in accordance with our Privacy Policy https://github.com/gotoconnecttestuser-arch/Dina_Lunken_DDS_SMS_PrivacyPolicy
 
 11. Limitation of Liability
     
